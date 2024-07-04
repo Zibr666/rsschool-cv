@@ -35,12 +35,41 @@
       Direction: Pedagogy in computer science
 
 # Career
+1. Laboratory assistant at N.G. Chernyshevsky State University
+
+2. Teacher in the gymnasium (kindergarten + school)
+
+3. Teacher/head teacher at the Aurora School
+
+4. System administrator at school No.51
+
+5. SQL developer in the bank
+
+6. SQL developer at a medical company
 
 # Hobbies
+**I like active recreation:** 
+
+ 1. _badminton_
+
+ 2. _cycling_
+
+ 3. _running_
+
+ 4. _football_
+
+ 5. _volleyball_
+
+ 6. _traveling_
 
 # Technology Stack
+ С#, python, SQL, Firebirds, HTML, CSS, Pascal
 
 # Contact information
+
+github:  [https://github.com/Zibr666]()
+
+e-mail: zibr666@gmail.com
 
 
 

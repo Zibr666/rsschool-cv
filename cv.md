@@ -62,6 +62,13 @@
 
  6. _traveling_
 
+# Code
+
+```a = 9
+ b = 8
+ c = a-b
+ print (a+b+c)
+```
 # Technology Stack
  С#, python, SQL, Firebirds, HTML, CSS, Pascal
 

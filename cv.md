@@ -5,6 +5,8 @@
 * Last name: Bagaev 
 * Patronymic: Valerievich
 * Age: 30 year
+* Why am I here: It's interesting to learn new things and try to figure out JS for a long time
+* English level: Beginner
 
     <blockquote> Lifestyle: be yourself 
 
@@ -77,6 +79,8 @@
 github:  [https://github.com/Zibr666]()
 
 e-mail: zibr666@gmail.com
+
+
 
 
 
